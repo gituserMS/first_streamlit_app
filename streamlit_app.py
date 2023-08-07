@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('My sample app')
+streamlit.title('Welcome to the food store')
